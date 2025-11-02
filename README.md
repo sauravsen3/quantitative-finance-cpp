@@ -115,7 +115,6 @@ This repository follows a structured 18-week learning program:
 - **Weeks 9-14:** Financial Mathematics
 - **Weeks 15-18:** Advanced Research Implementation
 
-See [LEARNING_PATH.md](LEARNING_PATH.md) for detailed curriculum.
 
 ## 🔬 Research Papers Implemented
 
@@ -131,7 +130,7 @@ See [LEARNING_PATH.md](LEARNING_PATH.md) for detailed curriculum.
 - [ ] Real-time market data integration
 - [ ] Machine learning model deployment
 - [ ] Regulatory capital calculations
-- [ ] ESG factor modeling
+- [ ] ESG factor modelling
 
 ## 🤝 Contributing
 
@@ -141,17 +140,4 @@ Contributions welcome! Please read our contributing guidelines and submit pull r
 - New financial models
 - Research paper implementations
 
-## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-**Saurav Sen** - Quantitative Finance Developer
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- Portfolio: [Your Website]
-
----
-
-⭐ **Star this repository if you find it useful for your quantitative finance journey!**
