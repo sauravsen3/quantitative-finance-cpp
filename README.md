@@ -1,6 +1,6 @@
-# Quantitative Finance C++ Library
+# Quantitative Finance C++ Journey
 
-A comprehensive C++ library for quantitative finance, featuring cutting-edge research implementations and practical financial tools.
+A comprehensive C++ library for tracking and keeping tabs on quantitative finance, featuring cutting-edge research implementations and practical financial tools.
 
 ## 🚀 Features
 
